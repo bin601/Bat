@@ -1,0 +1,1 @@
+"c:\Program Files\7-Zip\7z.exe" a -t7z a.7z . -x!Build\ -xr!.svn
